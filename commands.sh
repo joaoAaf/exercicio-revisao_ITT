@@ -1,6 +1,4 @@
-#apt update
-#apt install curl
-#apt install traceroute
+#!/bin/bash
 echo $USER
 date +"%Y-%m-%d %H:%M:%S"
 curl ifconfig.me
